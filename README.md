@@ -5,7 +5,8 @@ Simple snake game created using c++ and openGL.
 
 Gameplay:
 
-![](https://github.com/kenox2/simple-snake-opengl/tree/main/read_me_files/Usage.gif)
+![](https://github.com/kenox2/simple-snake-opengl/blob/main/read_me_files/Usage.gif)
+
 
 
 
